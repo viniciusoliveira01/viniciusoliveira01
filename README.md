@@ -8,7 +8,7 @@
   
 <img height="300" width="1100" src="https://user-images.githubusercontent.com/18582574/141713298-e91aff60-ace5-48cf-8af5-5d090fadfeb8.gif">
   
-<p>Senior Software developer with over 5 years of experience building amazing products with the most exciting technologies.
+<p>Senior Software developer with over 6 years of experience building amazing products with the most exciting technologies.
 Some projects and companies that I helped build software with React, React Native and Nodejs stack: <a href="https://crosoften.com/">CroSoften</a>, <a href="https://app.lit.com.br/">LIT</a>, <a href="https://arena.im/">Arena.im</a>, <a href="https://app.bearin.com.br/beta">BearIn</a>, <a href="https://www.ukor.com.br/">Ukor</a>, <a href="https://www.provi.com.br/">Provi</a>, <a href="http://www.romasoftsistemas.com.br/">Romasoft</a>, <a href="https://www.mega.com.br/vimob/">Mega</a>, <a href="https://greenlightapp.com/">Wunderkind</a> and <a href="https://gettimesaved.com/">TimeSaved</a>.</p>
 
 <h3>Languages and Tools</h3>
